@@ -1,0 +1,5 @@
+module Fluent
+import QtQuick.Controls.Basic
+
+ApplicationWindow ApplicationWindow.qml
+Button Button.qml
