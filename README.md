@@ -1,3 +1,3 @@
-# Kertasku-Desktop
+# Kertasku Desktop
 
 Kertasku on Dekstop
