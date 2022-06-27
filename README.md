@@ -1,3 +1,3 @@
 # Kertasku Desktop
 
-Kertasku on Dekstop
+Dekstop version of [Kertasku](https://github.com/fadhil3310/Kertasku). Still under development
