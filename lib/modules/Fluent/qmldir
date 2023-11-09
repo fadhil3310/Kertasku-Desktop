@@ -1,0 +1,12 @@
+module Fluent
+
+ApplicationWindow 1.0 ApplicationWindow.qml
+Button 1.0 Button.qml
+AppBarButton 1.0 AppBarButton.qml
+Dialog 1.0 Dialog.qml
+ScrollBar 1.0 ScrollBar.qml
+ItemDelegate 1.0 ItemDelegate.qml
+StackView 1.0 StackView.qml
+TextField 1.0 TextField.qml
+ColorButton 1.0 ColorButton.qml
+

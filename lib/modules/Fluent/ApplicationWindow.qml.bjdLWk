@@ -1,0 +1,51 @@
+import QtQuick 2.15
+import QtQuick.Templates 2.15 as T
+import FluentPlugin 1.0
+
+T.ApplicationWindow {
+    id: control
+
+    color: {
+        /*if (FluentPlugin.micaEnabled()) {
+            return "transparent"
+        }*/
+    }
+
+
+
+    MicaEnabler {
+        id: micaEnabler
+        window: control
+        Component.onCompleted: {
+            control.color = FluentItem.windowColor
+        }
+    }
+    /*Component.onCompleted: {
+        console.log("completed")
+        //color: "transparent"
+        //micaEnabler.window = control
+        //
+    }*/
+
+    //Fluent.mode: 2
+     //Fluent.isLight ? "white" : "black" //FluentItem.windowColor
+
+    /*Timer {
+        interval: 2000; running: true; repeat: false
+        onTriggered:{
+            console.log(control.color)
+            control.color = "red"
+            //kedua.start()
+        }
+    }
+
+    Timer {
+        id: kedua
+        interval: 2000; repeat: false
+        onTriggered:{
+            console.log(control.color)
+            control.color = "transparent"
+        }
+    }*/
+
+}

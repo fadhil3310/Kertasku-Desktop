@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lib/modules-qt6/FluentIcons/FluentIcon.qml</file>
+        <file>lib/modules-qt6/FluentIcons/FluentIconName.qml</file>
+        <file>lib/modules-qt6/FluentIcons/qmldir</file>
+    </qresource>
+</RCC>

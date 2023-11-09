@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="caretUp.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="22.5"
+     inkscape:cx="-0.8"
+     inkscape:cy="6.6"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837" />
+  </sodipodi:namedview>
+  <path
+     d="M 2.101533,8.07402 C 2.3079043,8.63454 2.7940862,9 3.3333609,9 H 8.6666416 C 9.2059163,9 9.6920989,8.63454 9.8984702,8.07402 10.104841,7.513515 9.9907626,6.868335 9.6094463,6.439335 l -2.6666412,-3 c -0.5207013,-0.58578 -1.3649063,-0.58578 -1.8856079,0 l -2.6666404,3 C 2.0092272,6.868335 1.8951617,7.513515 2.101533,8.07402 Z"
+     fill="#212121"
+     id="path2"
+     style="stroke-width:1.41421" />
+</svg>
